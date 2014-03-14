@@ -1,0 +1,5 @@
+(:name helm-git-grep
+       :depends (helm)
+       :description "Helm for incremental git grep."
+       :type github
+       :pkgname "yasuyk/helm-git-grep")
