@@ -1,0 +1,4 @@
+# ignore generated files
+el-get
+*.elc
+backups
