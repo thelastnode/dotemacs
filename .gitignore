@@ -1,4 +1,5 @@
 # ignore generated files
-el-get
 *.elc
-backups
+/el-get
+/backups
+/auto-save-list
