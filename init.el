@@ -1,6 +1,7 @@
 ;; packages to install
 (setf my-packages '(ace-jump-mode
 		    coffee-mode
+		    company-mode
 		    evil
 		    expand-region
 		    git-gutter
