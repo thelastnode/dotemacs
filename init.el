@@ -3,6 +3,7 @@
 		    coffee-mode
 		    company-mode
 		    evil
+		    exec-path-from-shell
 		    expand-region
 		    git-gutter
 		    helm
