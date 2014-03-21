@@ -10,6 +10,7 @@
 		    helm-git-grep
 		    helm-ls-git
 		    ido-ubiquitous
+		    less-css-mode
 		    magit
 		    multiple-cursors
 		    smex
