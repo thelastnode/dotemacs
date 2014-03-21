@@ -59,3 +59,6 @@
 
 ;; imenu
 (global-set-key (kbd "s-T") 'imenu)
+
+;; use spaces instead of tabs by default
+(setq-default indent-tabs-mode nil)
