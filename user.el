@@ -13,6 +13,7 @@
 (global-unset-key (kbd "s-n"))
 (global-unset-key (kbd "s-w"))
 (global-unset-key (kbd "s-q"))
+(global-unset-key (kbd "s-p"))
 
 ;; align-to-char
 (load "~/.emacs.d/user-scripts/align")
