@@ -2,6 +2,7 @@
 (setf my-packages '(ace-jump-mode
 		    coffee-mode
 		    company-mode
+                    emmet-mode
 		    evil
 		    exec-path-from-shell
 		    expand-region
