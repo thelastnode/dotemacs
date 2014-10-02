@@ -3,3 +3,7 @@
 /el-get
 /backups
 /auto-save-list
+/.mc-lists.el
+/eshell/history
+/eshell/lastdir
+/url/
