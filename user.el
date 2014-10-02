@@ -1,6 +1,12 @@
 ;; disable startup screen
 (setf inhibit-startup-screen t)
 
+;; don't quit, ever
+(defun c/quit-message ()
+  (interactive)
+  (message "You disabled this, remember? For old behavior, run M-x save-buffers-kill-terminal"))
+(global-set-key (kbd "C-x C-c") 'c/quit-message)
+
 ;; disable toolbar and scrollbar
 (tool-bar-mode 0)
 (scroll-bar-mode 0)
