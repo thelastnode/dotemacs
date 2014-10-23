@@ -1,21 +1,22 @@
 ;; packages to install
 (setf my-packages '(ace-jump-mode
-		    coffee-mode
-		    company-mode
+                    coffee-mode
+                    company-mode
                     emmet-mode
-		    evil
-		    exec-path-from-shell
-		    expand-region
-		    git-gutter
-		    helm
-		    helm-git-grep
-		    helm-ls-git
-		    ido-ubiquitous
-		    less-css-mode
-		    magit
-		    multiple-cursors
-		    smex
-		    tomorrow-theme))
+                    evil
+                    exec-path-from-shell
+                    expand-region
+                    fill-column-indicator
+                    git-gutter
+                    helm
+                    helm-git-grep
+                    helm-ls-git
+                    ido-ubiquitous
+                    less-css-mode
+                    magit
+                    multiple-cursors
+                    smex
+                    tomorrow-theme))
 
 
 ;; install el-get
