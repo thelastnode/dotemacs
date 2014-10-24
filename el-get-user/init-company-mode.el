@@ -9,7 +9,6 @@
 			 company-semantic
 			 company-clang
 			 company-xcode
-			 company-ropemacs
 			 company-cmake
 
 			 (company-dabbrev-code
