@@ -6,8 +6,7 @@
 
 ;; highlight and highlight line color
 (let ((hl-color "#404040"))
-  (set-face-background 'highlight hl-color)
-  (set-face-background 'hl-line hl-color))
+  (set-face-background 'highlight hl-color))
 
 ;; mode-line
 (set-face-attribute 'mode-line-buffer-id nil
