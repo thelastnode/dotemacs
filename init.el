@@ -16,7 +16,9 @@
                     magit
                     multiple-cursors
                     smex
-                    tomorrow-theme))
+                    tomorrow-theme
+                    visual-regexp
+                    visual-regexp-steroids))
 
 
 ;; install el-get
